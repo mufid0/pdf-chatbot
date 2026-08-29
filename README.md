@@ -406,7 +406,7 @@ Potential improvements include:
 * [ ] Reranking retrieved documents
 * [ ] Source citations and page-level references
 * [ ] OCR support for scanned PDFs
-* [x] Persistent vector database
+* [ ] Persistent vector database
 * [ ] Improved conversational memory
 * [ ] Streaming Gemini responses
 * [ ] Authentication and user sessions
